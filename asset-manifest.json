@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ContadorClicks/static/css/main.372401b8.css",
+    "main.js": "/ContadorClicks/static/js/main.e66a6218.js",
+    "static/media/logo.png": "/ContadorClicks/static/media/logo.96015350b6c3188e9534.png",
+    "index.html": "/ContadorClicks/index.html",
+    "main.372401b8.css.map": "/ContadorClicks/static/css/main.372401b8.css.map",
+    "main.e66a6218.js.map": "/ContadorClicks/static/js/main.e66a6218.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.372401b8.css",
+    "static/js/main.e66a6218.js"
+  ]
+}
